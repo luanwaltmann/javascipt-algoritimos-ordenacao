@@ -1,1 +1,1 @@
-# javascipt-algoritimos-ordenacao
+# javascript-algoritimos-ordenacao-2d
