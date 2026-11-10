@@ -6,7 +6,7 @@ const edFolha = [
 { titulo: "ELIXIR", preco: 50 },
 ];
 
-const edFolha = [
+const edgalho = [
 { titulo: "Python", preco: 20 },
 { titulo: "Rust", preco: 22 },
 { titulo: "Ruby", preco: 28 },
